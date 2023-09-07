@@ -13,8 +13,8 @@ Experience
 **WeCanCodeIT -- Lead Instructor**, Jan-Sept 2023
 
 - Rewrote course materials for an intensive Java/SpringBoot/React/Agile bootcamp.
-- Advocate for making Test-Driven Development and Example-driven learning central to the bootcamp.
-- Advocate for using using modern tools (Git, Markdown, Mermaid, VSCode) to develop curriculum and lessons.
+- Advocate for making Test-Driven Development and Example-driven learning central throughout.
+- Advocate for using using modern tools (Git, Markdown, Mermaid, VSCode) throughout.
 - Advocate for active learning and agile curriculum development.
 
 **Google, LLC -- Senior Site Reliability Engineer / Software Engineer**,  Oct 2018 to May 2022
@@ -41,26 +41,27 @@ Experience
 Education and Publications
 --------------------------
 
-**Princeton University, BA, Mathematics**
+**Princeton University, BA, Mathematics**, 1989
 
 - Departmental honors.
-
-**Match-and-swap marketplace (Application US20040167824A1)**
-
-- Application was eventually abandoned by my employer, but it was an interesting application of linear programming to a financial context.
 
 **Integrating Neural Network and Tree Search Approaches to Produce an Autosupervised System that Learns to Play Games**, M. Flax, J. Gelfand, S. Lane, and D. Handelman.
 
 - Proceedings Aerospace Applications of Artificial Intelligence Conference, Dayton, Ohio, October 1990.
 
+**Match-and-swap marketplace (Application US20040167824A1)**
+
+- Application was eventually abandoned by my employer, but it was an interesting application of linear programming to a financial context.
+
 Skills
 ------
 
 - TDD, Agile, Code Review, Mentoring
-- Git, Markdown, Mermaid
-- Java, Spring, Spring Boot, MVC
-- JPA, SQL, MySQL, Oracle DB,
-- JavaScript, TypeScript, React
+- Vim, VSCode, Eclipse, Git, Markdown, Mermaid
+- Java, Spring, Spring Boot, MVC, Gradle, Maven
+- JPA, SQL, MySQL, Oracle DB, PL/SQL, MongoDB
+- JavaScript, TypeScript, React, Elmlang, Haskell
+- Object-oriented programming, Functional programming, Declarative programming
 - Microservices, REST/HATEOAS, XML, JSON, gRPC
 
 Colophon
@@ -70,5 +71,5 @@ Colophon
 
 ----
 
-<marshall.g.flax@gmail.com> • +1-516-336-9369 \
-<https://www.linkedin.com/in/marshall-flax/> • Columbus, Ohio
+<marshall.g.flax@gmail.com> • 1-516-336-9369 \
+<https://www.linkedin.com/in/marshall-flax> • Columbus, Ohio
