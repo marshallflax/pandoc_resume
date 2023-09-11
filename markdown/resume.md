@@ -1,6 +1,11 @@
 Marshall G Flax
 ===============
 
+--------------------------------------- --------------------------------------------------
+<marshall.g.flax@gmail.com>                    <https://www.linkedin.com/in/marshall-flax>
+Columbus, Ohio                                                              1-516-336-9369
+--------------------------------------- --------------------------------------------------
+
 ----
 
 > Interface before implementation. Iterate to excellence. Agility requires trust.
@@ -51,7 +56,7 @@ Education and Publications
 
 **Match-and-swap marketplace (Application US20040167824A1)**
 
-- Application was eventually abandoned by my employer, but it was an interesting application of linear programming to a financial context.
+- Patent application was eventually abandoned, but it was an interesting application of linear programming to a financial context.
 
 Skills
 ------
@@ -68,8 +73,3 @@ Colophon
 --------
 
 - Markdown-to-PDF conversion courtesy <https://mszep.github.io/pandoc_resume/>
-
-----
-
-<marshall.g.flax@gmail.com> • 1-516-336-9369 \
-<https://www.linkedin.com/in/marshall-flax> • Columbus, Ohio
