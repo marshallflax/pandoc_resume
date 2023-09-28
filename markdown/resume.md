@@ -68,6 +68,7 @@ Skills
 - JavaScript, TypeScript, React, Elmlang, Haskell
 - Object-oriented programming, Functional programming, Declarative programming
 - Microservices, REST/HATEOAS, XML, JSON, gRPC
+- AWS ([AWS Certified Developer - Associate](https://www.credly.com/badges/60791598-ad15-4e1e-89bb-660dc7868820/public_url))
 
 Colophon
 --------
